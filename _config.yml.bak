@@ -1,0 +1,17 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Frank Fischer
+tagline:          'Prof. of Digital Humanities'
+description:      'Personal Homepage'
+url:              https://lehkost.github.io/
+baseurl:          /
+
+plugins:
+  - jekyll-paginate
+  - jekyll-gist
