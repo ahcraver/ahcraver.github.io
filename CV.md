@@ -2,39 +2,42 @@
 layout: page
 title: CV
 ---
-Education
-________________________________________
-Northern Illinois University								DeKalb, IL
-Ph.D., History											started Fall 2017
+### Curriculum Vitae
+### Alex Craver
+### acraver@niu.edu
+
+### Education
+
+Northern Illinois University, DeKalb, IL
+Ph.D., History												Fall 2017-current
 Advisor: Professor Andy Bruno
 Dissertation: “The Roots of Industry: The Global Political Economy of Rubber and the Soviet Union”
 
-University of Michigan 									Ann Arbor, MI
-M.A., Center for Russian, East European and Eurasian Studies (CREES)	August 2017
+University of Michigan, Ann Arbor, MI
+M.A., Center for Russian, East European and Eurasian Studies (CREES)					August 2017
 Thesis: “Soviet Man, Soviet Machine: Social construction of industrial labor in the early Soviet Union”
 Advisors: Professor Andy Bruno, Ambassador Melvyn Levitsky
 
-University of Wisconsin-Madison							Madison, WI
-B.A., History											May 2014
+University of Wisconsin-Madison, Madison, WI
+B.A., History												May 2014
 Thesis: “The Soviets Go Shopping: The ‘Vicious Circle’ of 1920s Soviet-American trade relations” 
 Advisor: Professor Francine Hirsch
 
-Honors and Awards
-________________________________________
+### Honors and Awards
 University of Illinois Urbana-Champaign Russian, Eurasian, and East Asian Center 
-Virtual Open Research Laboratory Associate						Spring 2021, Spring 2022
+Virtual Open Research Laboratory Associate								Spring 2021, Spring 2022
 
 Northern Illinois University
-Alfred F. Young Dissertation Research Grant				May 2018, May 2020
+Alfred F. Young Dissertation Research Grant								May 2018, May 2020
 
 Association for Slavic, East European, and Eurasian Studies 
-Understanding Modern Russia Grant 						June 2021 – July 2022
+Understanding Modern Russia Grant 									June 2021 – July 2022
 
 Indiana University-Bloomington 
-Russian Studies Workshop Associate							October 2020 
+Russian Studies Workshop Associate									October 2020 
 
 Arizona State University Critical Languages Institute 
-Title VIII Funding										June 2018
+Title VIII Funding											June 2018
 
 University of Michigan 
 Foreign Language Area Study Summer (FLAS) Fellowship - Russian 	May 2016
@@ -43,9 +46,7 @@ Foreign Language Area Study Summer (FLAS) Fellowship - Russian 	May 2016
 
 
 
-Publications and Conferences
-________________________________________
-
+### Publications and Conferences
 Participant in Arizona State University Melikian Center’s Title VIII Public Writing Workshop, August 2021
 
 Paper given at Carleton University’s Center for European, Russian, and Eurasian Studies Graduate Student Conference: “Nothing, They Say, Survived the Dandelions: Soviet Science, Stalinist Agriculture, and the Global Political Economy of Rubber,” March 2021
@@ -60,14 +61,13 @@ Paper given at 11th Annual Northern Illinois Graduate Student Conference: “The
 
 Paper given to the 10th Annual Northern Illinois History Graduate Student Conference: “The Vicious Circle: American Diplomacy and Business with an Outlaw Nation,” November 2017.
 
-Academic Employment and Involvement
-________________________________________
+### Academic Employment and Involvement
 Northern Illinois University
 Department of History and Institute for the Study of Environment, Sustainability, and Energy
 Instructor												Fall 2021
 	Courses:
 	American Military History
-Teaching Assistant										2017 - Present
+Teaching Assistant											2017 - Present
 	Courses:
 	The Black Athlete
 	The Environment in the Humanities and Social Sciences
@@ -78,21 +78,17 @@ Teaching Assistant										2017 - Present
 
 Northern Illinois University History Graduate Student Association (HGSA)
 President												2019-20
-Vice President											2018-19	
-Member, HGSA 10th Annual Conference Panel Committee			Fall 2017
+Vice President												2018-19	
+Member, HGSA 10th Annual Conference Panel Committee							Fall 2017
 
 University of Wisconsin-Madison, Department of Information Technology	      
-Assistant Manager, Digital Media Center						May 2014 - January 2015
-Multimedia Consultant, Digital Media Center						January 2012 - May 2014
+Assistant Manager, Digital Media Center									May 2014 - January 2015
+Multimedia Consultant, Digital Media Center								January 2012 - May 2014
 
-Language
-________________________________________
+### Language
 Russian (Reading, Writing, Speaking)
 
-
-
-References
-________________________________________
+### References
 Professor Andy Bruno
 Associate Professor, Director of Graduate Studies
 Northern Illinois University Department of History
