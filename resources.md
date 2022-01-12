@@ -9,7 +9,7 @@ These are websites and search tools I have found useful for finding Soviet sourc
 * <a href=http://metrics.tilda.ws/archives/>Russian Archive Search</a>
 * <a href=https://lib.ru>Lib.Ru: Мемуары, воспоминания, жизнеописания, события</a>
 * <a href=http://www.melgrosh.unimelb.edu.au/home-front.php>Stephen Wheatcroft's site for Soviet Economic Data</a>
-* <a href=https://www.google.com/books/edition/A_Researcher_s_Guide_to_Sources_on_Sovie/NphkUTKf50oC?hl=en>Lynne Viola and Fitzpatrick guide to Archives</a>
+* <a href=https://www.google.com/books/edition/A_Researcher_s_Guide_to_Sources_on_Sovie/NphkUTKf50oC?hl=en >Lynne Viola and Fitzpatrick guide to Archives</a>
 * <a href=http://cromwell-intl.com/russian/grammar.html>Russian Grammatical Tables</a>
 
 
