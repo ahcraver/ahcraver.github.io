@@ -65,16 +65,14 @@ title: CV
 * Northern Illinois University
 * Department of History and Institute for the Study of Environment, Sustainability, and Energy
 * Instructor												Fall 2021
-	* Courses:
-	* American Military History
+	* HIST 379: American Military History
 * Teaching Assistant											2017 - Present
-	* Courses:
-	* The Black Athlete
-	* The Environment in the Humanities and Social Sciences
-	* US Environmental Law and Politics
-	* World History until 1500
-	* The United States Until 1865
-	* The United States After 1865
+	* HIST 303: The Black Athlete
+	* ENVS 303: The Environment in the Humanities and Social Sciences
+	* ENVS 304: US Environmental Law and Politics
+	* HIST 171: World History until 1500
+	* HIST 240: The United States Until 1865
+	* HIST 241: The United States After 1865
 
 * Northern Illinois University History Graduate Student Association (HGSA)
 * President												2019-20
