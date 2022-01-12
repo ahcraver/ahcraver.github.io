@@ -19,7 +19,7 @@ These are websites and search tools I have found useful for finding Soviet sourc
 ### Useful Media Tools
 * [Dracor.org and the Shiny Dracor API](https://shiny.dracor.org)
 * [EZlinavus from Dracor](https://ezlinavis.dracor.org/)
-* [Calibre E-Book Management](https://calibre-ebook.com)>
+* [Calibre E-Book Management](https://calibre-ebook.com)
 * [Sumo Paint](https://sumopaint.com)
 * [Dochub](Https://dochub.com)
 * [Camtasia](https://techsmith.com/video-editor)
