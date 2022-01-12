@@ -1,5 +1,5 @@
 <div class="sidebar">
-  <div class="container sidebar-sticky">
+  <div class="container sidebar-sticky reverse-layout">
     <div class="sidebar-about">
        <img src="/img/ff-hel.jpg" alt="portrait pic" style="display:block; margin-left: auto; margin-right: auto;" />
         <h2 style="text-align:center;"><a href="/">
@@ -10,15 +10,14 @@
     -->
     </div>
 
-    <nav class="sidebar-nav">
+    <nav class="sidebar-nav"><nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ '/' }}">Home</a>
-      <a class="sidebar-nav-item{% if page.url == '/publications/' %} active{% endif %}" href="{{ '/publications/' }}">Publications</a>
-      <a class="sidebar-nav-item{% if page.url == '/feuilleton/' %} active{% endif %}" href="{{ '/feuilleton/' }}">Feuilleton</a>
-      <a class="sidebar-nav-item{% if page.url == '/talks/' %} active{% endif %}" href="{{ '/talks/' }}">Talks/Slides</a>
-      <a class="sidebar-nav-item{% if page.url == '/projects/' %} active{% endif %}" href="{{ '/projects/' }}">Projects</a>
-      <a class="sidebar-nav-item{% if page.url == '/services/' %} active{% endif %}" href="{{ '/services/' }}">Committees/Services</a>
-      <a class="sidebar-nav-item{% if page.url == '/posters/' %} active{% endif %}" href="{{ '/posters/' }}">Posters</a>
-      <a class="sidebar-nav-item{% if page.url == '/lectures/' %} active{% endif %}" href="{{ '/lectures/' }}">DH Lectures</a>
+      <a class="sidebar-nav-item{% if page.url == '/biography/' %} active{% endif %}" href="{{ '/biography/' }}">Biography</a>
+      <a class="sidebar-nav-item{% if page.url == '/CV/' %} active{% endif %}" href="{{ '/cv/' }}">CV</a>
+      <a class="sidebar-nav-item{% if page.url == '/writing/' %} active{% endif %}" href="{{ '/writing/' }}">Writing</a>
+      <a class="sidebar-nav-item{% if page.url == '/teaching/' %} active{% endif %}" href="{{ '/projects/' }}">Teaching</a>
+      <a class="sidebar-nav-item{% if page.url == '/resources/' %} active{% endif %}" href="{{ '/services/' }}">Resources</a>
+
 
 <!--
       {% comment %}
