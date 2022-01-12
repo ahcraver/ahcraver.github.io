@@ -2,8 +2,7 @@
 layout: page
 title: CV
 ---
-### Curriculum Vitae
-* Alex Craver
+### Alex Craver
 * acraver@niu.edu
 
 ### Education
