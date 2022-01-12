@@ -6,7 +6,6 @@ title: Alex Craver
 ### Affiliation
 * PhD Candidate in History at Northern Illinois University
 
-
 ### Current Main Projects
 * Dissertation: The Roots of Empire and Industry: The Global History of Soviet Rubber
 
@@ -18,6 +17,6 @@ title: Alex Craver
 * Environmental History, Economic History, Russian History, History of Science, The Anthropocene
 
 ### Profiles
-* Twitter:
 * GitHub: [ahcraver](https://github.com/ahcraver)
 * ORCID: 
+* Contact: acraver@niu.edu
