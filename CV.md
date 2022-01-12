@@ -2,7 +2,7 @@
 layout: page
 title: CV
 ---
-###Education
+Education
 ________________________________________
 Northern Illinois University								DeKalb, IL
 Ph.D., History											started Fall 2017
@@ -19,7 +19,7 @@ B.A., History											May 2014
 Thesis: “The Soviets Go Shopping: The ‘Vicious Circle’ of 1920s Soviet-American trade relations” 
 Advisor: Professor Francine Hirsch
 
-###Honors and Awards
+Honors and Awards
 ________________________________________
 University of Illinois Urbana-Champaign Russian, Eurasian, and East Asian Center 
 Virtual Open Research Laboratory Associate						Spring 2021, Spring 2022
@@ -43,7 +43,7 @@ Foreign Language Area Study Summer (FLAS) Fellowship - Russian 	May 2016
 
 
 
-###Publications and Conferences
+Publications and Conferences
 ________________________________________
 
 Participant in Arizona State University Melikian Center’s Title VIII Public Writing Workshop, August 2021
@@ -60,7 +60,7 @@ Paper given at 11th Annual Northern Illinois Graduate Student Conference: “The
 
 Paper given to the 10th Annual Northern Illinois History Graduate Student Conference: “The Vicious Circle: American Diplomacy and Business with an Outlaw Nation,” November 2017.
 
-###Academic Employment and Involvement
+Academic Employment and Involvement
 ________________________________________
 Northern Illinois University
 Department of History and Institute for the Study of Environment, Sustainability, and Energy
@@ -85,13 +85,13 @@ University of Wisconsin-Madison, Department of Information Technology
 Assistant Manager, Digital Media Center						May 2014 - January 2015
 Multimedia Consultant, Digital Media Center						January 2012 - May 2014
 
-###Language
+Language
 ________________________________________
 Russian (Reading, Writing, Speaking)
 
 
 
-###References
+References
 ________________________________________
 Professor Andy Bruno
 Associate Professor, Director of Graduate Studies
