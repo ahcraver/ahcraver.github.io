@@ -8,7 +8,7 @@ Invited talks, conference and workshop slides.
 ### 2022
 
 <small>2022-02-14 · Northern Illinois University, ENGLISH 609 - Creative Writing - Molly Mcnett</small><br />
-[Guest Lecture - 19th century Russian Literature and Russian History](https://docs.google.com/presentation/d/1jPWzudHmQOO3YKNnj3IkBfDF0Em84kca/edit?usp=sharing&ouid=109263293921727551837&rtpof=true&sd=true)
+[Guest Lecture - 19th century Russian Literature and Russian History](https://docs.google.com/presentation/d/e/2PACX-1vRqXuLPSRIPzSYjJI5ltcjwD_AhBvQ26B7ScqJZDfBsYjCHd3WEwfi2Cb8nGG6F6g/pub?start=false&loop=false&delayms=1000)
 ### 2021
 
 <small>2021-11-05 · Carleton University (virtual), CREEES Graduate Student Conference</small><br />
