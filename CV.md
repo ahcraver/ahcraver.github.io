@@ -46,6 +46,8 @@ title: CV
 
 
 ### Publications and Conferences
+* Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
+
 * Participant in Arizona State University Melikian Center’s Title VIII Public Writing Workshop, August 2021
 
 * Paper given at Carleton University’s Center for European, Russian, and Eurasian Studies Graduate Student Conference: “Nothing, They Say, Survived the Dandelions: Soviet Science, Stalinist Agriculture, and the Global Political Economy of Rubber,” March 2021
