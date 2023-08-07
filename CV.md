@@ -24,7 +24,7 @@ title: CV
 
 ### Honors and Awards
 * George Washington University
-  	*Fieldwork Assistance, Graduate Cooperation Project,
+  	* Fieldwork Assistance, Graduate Cooperation Project,
   						August 2023
 * Northern Illinois University
 	* Dissertation Completion Fellowship,
@@ -52,15 +52,15 @@ title: CV
 
 
 ### Publications and Conferences
-*“Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” Paper accepted but unable to present at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023.
+* “Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” Paper accepted but unable to present at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023.
 
-*“Soviet Flower Power: A Kazakh flower’s journey across the world,” Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023.
+* “Soviet Flower Power: A Kazakh flower’s journey across the world,” Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023.
 
-*“Russia and the 20th Century Rubber Cartel” Paper accepted but unable to present at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022.
+* “Russia and the 20th Century Rubber Cartel” Paper accepted but unable to present at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022.
 
-*“The Imperial Material,” Dissertation Chapter presented at Midwestern Russian History Conference, April 2022.
+* “The Imperial Material,” Dissertation Chapter presented at Midwestern Russian History Conference, April 2022.
 
-*“19th Century Russian Literature and Russian History,” Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022.
+* “19th Century Russian Literature and Russian History,” Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022.
 
 * Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
 
