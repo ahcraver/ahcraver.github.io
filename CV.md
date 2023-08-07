@@ -8,7 +8,7 @@ title: CV
 ### Education
 
 #### Northern Illinois University, DeKalb, IL
-* Ph.D., History												Fall 2017-current
+* Ph.D., History												Semptember 2017-Expected May 2024
 	* Advisor: Professor Andy Bruno
 	* Dissertation: “The Roots of Industry: The Global Political Economy of Rubber and the Soviet Union”
 
@@ -23,29 +23,45 @@ title: CV
 	* Advisor: Professor Francine Hirsch
 
 ### Honors and Awards
+* George Washington University
+  	*Fieldwork Assistance, Graduate Cooperation Project,
+  						August 2023
+* Northern Illinois University
+	* Dissertation Completion Fellowship,
+						May 2023-May 2024
 * University of Illinois Urbana-Champaign Russian, Eurasian, and East Asian Center 
-	* Virtual Open Research Laboratory Associate,								Spring 2021, Spring 2022
+	* Title VIII Funding,
+						January 2023-August 2023
 
 * Northern Illinois University
 	* Alfred F. Young Dissertation Research Grant,								May 2018, May 2020
 
-* Association for Slavic, East European, and Eurasian Studies 
-	* Understanding Modern Russia Grant, 									June 2021 – July 2022
-
 * Indiana University-Bloomington 
 	* Russian Studies Workshop Associate,									October 2020 
 
+* Association for Slavic, East European, and Eurasian Studies 
+	* Understanding Modern Russia Grant, 									June 2021 – July 2022
 * Arizona State University Critical Languages Institute 
 	* Title VIII Funding,											June 2018
 
 * University of Michigan 
-	* Foreign Language Area Study Summer (FLAS) Fellowship - Russian, 	May 2016
+	* Foreign Language Area Study Summer (FLAS) Fellowship - Russian 	May 2016
 
 
 
 
 
 ### Publications and Conferences
+*“Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” Paper accepted but unable to present at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023.
+
+*“Soviet Flower Power: A Kazakh flower’s journey across the world,” Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023.
+
+*“Russia and the 20th Century Rubber Cartel” Paper accepted but unable to present at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022.
+
+*“The Imperial Material,” Dissertation Chapter presented at Midwestern Russian History Conference, April 2022.
+
+*“19th Century Russian Literature and Russian History,” Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022.
+
 * Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
 
 * Participant in Arizona State University Melikian Center’s Title VIII Public Writing Workshop, August 2021
@@ -65,13 +81,15 @@ title: CV
 ### Academic Employment and Involvement
 #### Northern Illinois University
 Department of History and Institute for the Study of Environment, Sustainability, and Energy
-* Instructor,												Fall 2021
+* Instructor,			
+Spring 2023
+* Hist 171: Problems of the Human Past									Fall 2021
 	* HIST 379: American Military History
 * Teaching Assistant,											2017 - Present
 	* HIST 303: The Black Athlete
 	* ENVS 303: The Environment in the Humanities and Social Sciences
 	* ENVS 304: US Environmental Law and Politics
-	* HIST 171: World History until 1500
+	* HIST 170: World History until 1500
 	* HIST 240: The United States Until 1865
 	* HIST 241: The United States After 1865
 
