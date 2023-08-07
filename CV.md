@@ -8,7 +8,7 @@ title: CV
 ### Education
 
 #### Northern Illinois University, DeKalb, IL
-* Ph.D., History												Semptember 2017-Expected May 2024
+* Ph.D., History												September 2017-Expected May 2024
 	* Advisor: Professor Andy Bruno
 	* Dissertation: “The Roots of Industry: The Global Political Economy of Rubber and the Soviet Union”
 
@@ -24,8 +24,8 @@ title: CV
 
 ### Honors and Awards
 * George Washington University
-  	* Fieldwork Assistance, Graduate Cooperation Project,
-  						August 2023
+	* Fieldwork Assistance, Graduate Research Cooperation Project
+						August 2023
 * Northern Illinois University
 	* Dissertation Completion Fellowship,
 						May 2023-May 2024
