@@ -13,9 +13,6 @@ These are websites and search tools I have found useful for finding Soviet sourc
 * [Russian Grammatical Tables](http://cromwell-intl.com/russian/grammar.html)
 
 
-### Historical Methods
-
-
 ### Useful Media Tools
 * [Dracor.org and the Shiny Dracor API](https://shiny.dracor.org)
 * [EZlinavus from Dracor](https://ezlinavis.dracor.org/)
@@ -23,3 +20,4 @@ These are websites and search tools I have found useful for finding Soviet sourc
 * [Sumo Paint](https://sumopaint.com)
 * [Dochub](Https://dochub.com)
 * [Camtasia](https://techsmith.com/video-editor)
+* [Handbrake](https://handbrake.fr/)
