@@ -19,4 +19,4 @@ title: Alex Craver
 ### Profiles
 * GitHub: [ahcraver](https://github.com/ahcraver)
 * ORCID: 
-* Contact: acraver@niu.edu
+* Contact: acraver1@niu.edu or alexhcraver@gmail.com
