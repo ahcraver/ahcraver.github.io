@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 ### Alex Craver
-* acraver@niu.edu
+* acraver1@niu.edu
 
 ### Education
 
@@ -52,15 +52,15 @@ title: CV
 
 
 ### Publications and Conferences
-* “Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” Paper accepted but unable to present at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023.
+* Paper accepted but unable to attend at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023: “Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” 
 
-* “Soviet Flower Power: A Kazakh flower’s journey across the world,” Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023.
+* Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023:  “Soviet Flower Power: A Kazakh flower’s journey across the world,”
 
-* “Russia and the 20th Century Rubber Cartel” Paper accepted but unable to present at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022.
+* Paper accepted but unable to attend at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022: “Russia and the 20th Century Rubber Cartel” 
 
-* “The Imperial Material,” Dissertation Chapter presented at Midwestern Russian History Conference, April 2022.
+* Dissertation Chapter presented at Midwestern Russian History Conference, April 2022: “The Imperial Material,” 
 
-* “19th Century Russian Literature and Russian History,” Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022.
+*  Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022: “19th Century Russian Literature and Russian History,”
 
 * Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
 
@@ -81,11 +81,10 @@ title: CV
 ### Academic Employment and Involvement
 #### Northern Illinois University
 Department of History and Institute for the Study of Environment, Sustainability, and Energy
-* Instructor,			
-Spring 2023
-* Hist 171: Problems of the Human Past									Fall 2021
-	* HIST 379: American Military History
-* Teaching Assistant,											2017 - Present
+* Instructor,												2022-23
+	* Hist 171: Problems of the Human Past								
+	* HIST 379: American Military History									
+* Teaching Assistant,											2017 - 2022
 	* HIST 303: The Black Athlete
 	* ENVS 303: The Environment in the Humanities and Social Sciences
 	* ENVS 304: US Environmental Law and Politics
