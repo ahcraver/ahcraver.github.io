@@ -24,7 +24,7 @@ title: CV
 
 ### Honors and Awards
 * George Washington University
-	* Fieldwork Assistance, Graduate Research Cooperation Project
+	* Fieldwork Assistance, Graduate Research Cooperation Project,
 						August 2023
 * Northern Illinois University
 	* Dissertation Completion Fellowship,
