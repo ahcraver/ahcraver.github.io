@@ -2,7 +2,8 @@
 layout: page
 title: CV
 ---
-### Alex Craver
+Curriculum Vitae
+### Alexander H. Craver
 * acraver1@niu.edu
 
 ### Education
@@ -22,7 +23,7 @@ title: CV
 	* Thesis: “The Soviets Go Shopping: The ‘Vicious Circle’ of 1920s Soviet-American trade relations” 
 	* Advisor: Professor Francine Hirsch
 
-### Honors and Awards
+### Grants and Awards
 * George Washington University
 	* Fieldwork Assistance, Graduate Research Cooperation Project,
 						August 2023
@@ -46,37 +47,31 @@ title: CV
 
 * University of Michigan 
 	* Foreign Language Area Study Summer (FLAS) Fellowship - Russian 	May 2016
-
-
-
-
-
-### Publications and Conferences
-* Paper accepted but unable to attend at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023: “Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” 
-
-* Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023:  “Soviet Flower Power: A Kazakh flower’s journey across the world,”
-
-* Paper accepted but unable to attend at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022: “Russia and the 20th Century Rubber Cartel” 
-
-* Dissertation Chapter presented at Midwestern Russian History Conference, April 2022: “The Imperial Material,” 
-
-*  Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022: “19th Century Russian Literature and Russian History,”
-
+### Translations
 * Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
 
-* Participant in Arizona State University Melikian Center’s Title VIII Public Writing Workshop, August 2021
+### Publications and Conferences
+* “Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” Paper accepted but unable to present at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023.
 
-* Paper given at Carleton University’s Center for European, Russian, and Eurasian Studies Graduate Student Conference: “Nothing, They Say, Survived the Dandelions: Soviet Science, Stalinist Agriculture, and the Global Political Economy of Rubber,” March 2021
+* “Soviet Flower Power: A Kazakh flower’s journey across the world,” Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023.
 
-* Paper given at University of Tyumen’s “Transcending Nature: The Anthropocene and environmental history of Northern Eurasia” Summer School: “The Convenient Chemistry of Potatoes, Vodka, and Oil: Soviet Synthetic Rubber in Soviet Environmental and Economic History,” July 2020.
+* “Russia and the 20th Century Rubber Cartel” Paper accepted but unable to present at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022.
 
-* Paper given at 12th Annual Northern Illinois Graduate Student Conference: “Building Socialism with Vodka and Oil: The Soviet Synthetic Rubber Industry,” November 2019.
+* “The Imperial Material,” Dissertation Chapter presented at Midwestern Russian History Conference, April 2022.
 
-* Research Poster Presented at University of Wisconsin Center for Russian East European and Central Asia (CREECA) Summer Workshop, “The Soviet Rubber Industry - Moving Beyond ‘Plain Old Guesswork,’” May 2019
+* “19th Century Russian Literature and Russian History,” Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022.
 
-* Paper given at 11th Annual Northern Illinois Graduate Student Conference: “The Clash at the Red Triangle: Soviet Art, Advertising, Worker Culture, and Economic Crises in the 1920s,” November 2018.
+* “Nothing, They Say, Survived the Dandelions: Soviet Science, Stalinist Agriculture, and the Global Political Economy of Rubber,” Paper given at Carleton University’s Center for European, Russian, and Eurasian Studies Graduate Student Conference, March 2021.
 
-* Paper given to the 10th Annual Northern Illinois History Graduate Student Conference: “The Vicious Circle: American Diplomacy and Business with an Outlaw Nation,” November 2017.
+* “The Convenient Chemistry of Potatoes, Vodka, and Oil: Soviet Synthetic Rubber in Soviet Environmental and Economic History,” Paper given at University of Tyumen’s “Transcending Nature: The Anthropocene and environmental history of Northern Eurasia” Summer School, July 2020.
+
+* “Building Socialism with Vodka and Oil: The Soviet Synthetic Rubber Industry,” Paper given at 12th Annual Northern Illinois History Graduate Student Conference, November 2019.
+
+* “The Soviet Rubber Industry - Moving Beyond ‘Plain Old Guesswork,’” Research Poster Presented at University of Wisconsin Center for Russian East European and Central Asia (CREECA) Summer Workshop, May 2019.
+
+* “The Clash at the Red Triangle: Soviet Art, Advertising, Worker Culture, and Econo mic Crises in the 1920s,” Paper given at 11th Annual Northern Illinois History Graduate Student Conference: November 2018.
+
+* “The Vicious Circle: American Diplomacy and Business with an Outlaw Nation,” Paper given to the 10th Annual Northern Illinois History Graduate Student Conference: November 2017.
 
 ### Academic Employment and Involvement
 #### Northern Illinois University
@@ -109,10 +104,8 @@ Department of History and Institute for the Study of Environment, Sustainability
 	* Associate Professor, Director of Graduate Studies
 	* Northern Illinois University Department of History
 	* abruno2@niu.edu
-	* 815.753.0131
 
 * Professor Anne Hanley
 	* Professor
 	* Northern Illinois University Department of History
 	* ahanley@niu.edu
-	* 815.753.0131
