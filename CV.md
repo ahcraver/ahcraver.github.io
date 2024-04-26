@@ -47,17 +47,22 @@ Curriculum Vitae
 
 * University of Michigan 
 	* Foreign Language Area Study Summer (FLAS) Fellowship - Russian 	May 2016
+ * 
 ### Translations
 * Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
 
 ### Publications and Conferences
+* "Soviet-American Synthesis: Sergei Lebedev, Iwan Ostromislensky, and the transnational history of synthetic rubber," forthcoming for publication, April 2024.
+  
+* "Edison's Mistake?: Soviet-American science and the transnational origins of synthetic rubber," Paper given at 16th Annual Northern Illinois History Graduate Studence Conference, April 2024.
+  
 * “Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” Paper accepted but unable to present at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023.
 
 * “Soviet Flower Power: A Kazakh flower’s journey across the world,” Paper given at 15th Annual Northern Illinois History Graduate Student Conference, April 2023.
 
 * “Russia and the 20th Century Rubber Cartel” Paper accepted but unable to present at “Landscapes and Thoughtscapes of the Anthropocene” Conference, Tyumen University, Oct 2022.
 
-* “The Imperial Material,” Dissertation Chapter presented at Midwestern Russian History Conference, April 2022.
+* “The Imperial Material,” Dissertation Chapter presented at Midwestern Russian History Workshop, April 2022.
 
 * “19th Century Russian Literature and Russian History,” Guest Lecture given to ENG 609, Creative Writing, Northern Illinois University, February 2022.
 
