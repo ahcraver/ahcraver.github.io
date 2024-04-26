@@ -5,6 +5,15 @@ title: Talks/Slides
 
 Invited talks, conference and workshop slides.
 
+### 2024
+<small>2024-04-09  · Northern Illinois University, HGSA 16th Annual Graduate Student Conference</small><br />
+"Edison's Mistake - Soviet-American science and the transnational origins of synthetic rubber"
+
+### 2023
+
+<small>2024-04-09  · Northern Illinois University, HGSA 15th Annual Graduate Student Conference</small><br />
+"Soviet FLower Power: A Kazkh flower's journey across the world."
+
 ### 2022
 
 <small>2022-02-14 · Northern Illinois University, ENGLISH 609 - Creative Writing - Molly Mcnett</small><br />
