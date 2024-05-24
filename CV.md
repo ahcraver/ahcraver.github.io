@@ -54,7 +54,7 @@ Curriculum Vitae
 ### Publications and Conferences
 * "Soviet-American Synthesis: Sergei Lebedev, Iwan Ostromislensky, and the transnational history of synthetic rubber," forthcoming for publication, April 2024.
   
-* "Edison's Mistake?: Soviet-American science and the transnational origins of synthetic rubber," Paper given at 16th Annual Northern Illinois History Graduate Studence Conference, April 2024.
+* "Edison's Mistake?: Soviet-American science and the transnational origins of synthetic rubber," Paper given at 16th Annual Northern Illinois History Graduate Student Conference, April 2024.
   
 * “Soviet Sagiz: A story of biopiracy, Stalinist Flower Power, and the Global North in the 20th Century” Paper accepted but unable to present at "Disentangling Eurasia: Russian Empire, the Soviet Union, and their Successors," Tallinn University, Estonia, July 28-August 4, 2023.
 
