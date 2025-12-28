@@ -5,7 +5,7 @@ title: Alex Craver
 
 ### Current Main Projects
 * Article: Edison's Mistake: The American-Russian History of Synthetic Rubber (forthcoming)
-* Article: Transnational History and the Creation of Synthetic Ruber in the 20th Century
+* Article: Transnational History and the Creation of Synthetic Rubber in the 20th Century (forthcoming)
 
 ### Education
 * PhD in History (Northern Illinois University), 2017-2025
