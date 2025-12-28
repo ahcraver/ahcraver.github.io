@@ -9,7 +9,7 @@ Curriculum Vitae
 ### Education
 
 #### Northern Illinois University, DeKalb, IL
-* Ph.D., History												September 2017-Expected May 2024
+* Ph.D., History												May 2025
 	* Advisor: Professor Andy Bruno
 	* Dissertation: “The Roots of Industry: The Global Political Economy of Rubber and the Soviet Union”
 
@@ -52,7 +52,7 @@ Curriculum Vitae
 * Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
 
 ### Publications and Conferences
-* "Soviet-American Synthesis: Sergei Lebedev, Iwan Ostromislensky, and the transnational history of synthetic rubber," forthcoming for publication, April 2024.
+* "Soviet-American Synthesis: Sergei Lebedev, Iwan Ostromislensky, and the transnational history of synthetic rubber," forthcoming for publication.
   
 * "Edison's Mistake?: Soviet-American science and the transnational origins of synthetic rubber," Paper given at 16th Annual Northern Illinois History Graduate Student Conference, April 2024.
   
