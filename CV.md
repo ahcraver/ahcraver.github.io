@@ -52,7 +52,9 @@ Curriculum Vitae
 * Translation, Igor Stas, "An Indigenous Anthropocene: Subsistence Colonization and Ecological Imperialism in the Soviet Arctic in the 1920s and Early 1930s," The Soviet And Post Soviet Review 49(2022) 39-66.
 
 ### Publications and Conferences
-* "Soviet-American Synthesis: Sergei Lebedev, Iwan Ostromislensky, and the transnational history of synthetic rubber," forthcoming for publication.
+* "Edison's Mistake: The American-Russian History of Synthetic Rubber," forthcoming article
+
+* "Soviet-American Synthesis: Sergei Lebedev, Iwan Ostromislensky, and the transnational history of synthetic rubber," Midwestern Slavic History Workshop, April 2024.
   
 * "Edison's Mistake?: Soviet-American science and the transnational origins of synthetic rubber," Paper given at 16th Annual Northern Illinois History Graduate Student Conference, April 2024.
   
