@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Alex Craver, PhD in History
+title: Alex Craver, PhD
 ---
 ### Curriculum Vitae
 * [Download CV](https://1drv.ms/b/c/bce4f3738324d3b9/IQDO8PTUsmIXQqeDu4yT8YGaAS6sUfwrQoXy4zgcNw28i3g?e=Igd2f2)
