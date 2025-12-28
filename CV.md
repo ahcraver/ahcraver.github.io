@@ -4,7 +4,7 @@ title: CV
 ---
 Curriculum Vitae
 ### Alexander H. Craver
-* acraver1@niu.edu
+* alexhcraver@gmail.com
 
 ### Education
 
