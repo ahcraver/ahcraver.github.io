@@ -3,7 +3,7 @@ layout: page
 title: Alex Craver, PhD in History
 ---
 ### Curriculum Vitae
-* [CV](https://1drv.ms/b/c/bce4f3738324d3b9/IQDO8PTUsmIXQqeDu4yT8YGaAS6sUfwrQoXy4zgcNw28i3g?e=Igd2f2)
+* [Download CV](https://1drv.ms/b/c/bce4f3738324d3b9/IQDO8PTUsmIXQqeDu4yT8YGaAS6sUfwrQoXy4zgcNw28i3g?e=Igd2f2)
   
 ### Current Main Projects
 * Article: Edison's Mistake: The American-Russian History of Synthetic Rubber (forthcoming)
@@ -23,5 +23,5 @@ title: Alex Craver, PhD in History
 ### Profiles
 * GitHub: [ahcraver](https://github.com/ahcraver)
 * ORCID: 
-* Contact: [acraver1@niu.edu](acraver1@niu.edu)
+* Contact: [alexhcraver@gmail.com](alexhcraver@gmail.com)
 * ResearchGate: [Alexander Craver](https://www.researchgate.net/profile/Alexander-Craver-2)
